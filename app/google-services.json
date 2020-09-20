@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "992944254387",
+    "firebase_url": "https://shareus-6d114.firebaseio.com",
+    "project_id": "shareus-6d114",
+    "storage_bucket": "shareus-6d114.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992944254387:android:c16acebc506f18ab722fc6",
+        "android_client_info": {
+          "package_name": "com.flinfo.shareus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992944254387-c7sfv8vou433k5i48v564j6as3ikfrfg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbyZD1c3Xbb-g3betrhiHKVGWjAScwCqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992944254387-c7sfv8vou433k5i48v564j6as3ikfrfg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
